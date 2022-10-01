@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LandMarkBookKotlin</string>
+    <string name="landmark_name">Landmark Name</string>
+    <string name="landmark_country">Landmark Country</string>
+</resources>
